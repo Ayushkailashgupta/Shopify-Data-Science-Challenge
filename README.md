@@ -1,4 +1,8 @@
 # Shopify-Data-Science-Challenge
+Apart from Answers to question written below I have attached two files to showcase my work and thought process:
+
+1. Summer 2022 Data Science Intern Challenge Question 1
+2. Summer 2022 Data Science Intern Challenge Question 2
 
 # Question 1:
 Given some sample data, write a program to answer the following: click here to access the required data set

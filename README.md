@@ -29,7 +29,7 @@ Answer:
 # Question 2:
 For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.
 
-a) How many orders were shipped by Speedy Express in total?
+a. How many orders were shipped by Speedy Express in total?
 
 Answer:
 
@@ -39,7 +39,7 @@ WHERE ShipperName = 'Speedy Express');
 
 Output: 54
 
-b) What is the last name of the employee with the most orders?
+b. What is the last name of the employee with the most orders?
 
 Answer:
 
@@ -51,7 +51,7 @@ ORDER BY COUNT(DISTINCT OrderID) DESC LIMIT 1;
 
 Output: Peacock (No of orders is 40)
 
-What product was ordered the most by customers in Germany?
+c. What product was ordered the most by customers in Germany?
 
 Answer:
 
